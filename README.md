@@ -32,7 +32,7 @@ This is used to help students review the tests of 2025 autumn, ODE, Haide Colleg
 
 | Test No. | Coverage | Average | 90–100 | 80–89 | 70–79 | 60–69 | <60 |
 |:--------:|:--------------------------------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Test 1** | Chapters 1–2: Introduction & First-Order ODEs | 75.1 | 39 | 47 | 33 | 17 | 25 |
+| **Test 1** | Chapters 1–2: Introduction & First-Order ODEs | — | — | — | — | — | — |
 | **Test 2** | Chapter 3: Existence and Uniqueness Theorem | — | — | — | — | — | — |
 | **Test 3** | TBD (Expected to cover Chapters 4–6) | — | — | — | — | — | — |
 
