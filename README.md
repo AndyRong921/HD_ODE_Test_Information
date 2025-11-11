@@ -28,7 +28,7 @@ This is used to help students review the tests of 2025 autumn, ODE, Haide Colleg
 
 
 
-## 📊 ODE Course Midterm Test Statistics
+## 📊 ODE Course Test Statistics
 
 | Test No. | Coverage | Average | 90–100 | 80–89 | 70–79 | 60–69 | <60 |
 |:--------:|:--------------------------------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
