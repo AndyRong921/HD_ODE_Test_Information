@@ -39,8 +39,7 @@ This is used to help students review the tests of 2025 autumn, ODE, Haide Colleg
 ---
 
 ### 📄 Notes
-- **Average** – mean score of all participants.  
-- **Highest / Lowest** – top and bottom individual scores.  
+- **Average** – mean score of all participants.   
 - **Score ranges** show the **number of students** in each bracket.  
 - Data will be updated after each test is completed.
 
